@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ilesanmipepsi
-- 👀 I’m interested in solidarity
-- 🌱 I’m currently learning on how code
-- 💞️ I’m looking to collaborate on blockchain project
-- 📫 How to reach me: Email: pakintade@gmail.com
+- 👀 I’m an aspiring software engineer 
+- 🌱 I’m currently learning on how to code
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me:pakintade@gmail.com
 
 <!---
 ilesanmipepsi/ilesanmipepsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
